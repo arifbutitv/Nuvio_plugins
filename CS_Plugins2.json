@@ -130,8 +130,8 @@
     "TvSeries"
     ],
     "version": 1,
-    "internalName": "MyCimaProvider",
-    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/MyCimaProvider.cs3",
-    "name": "MyCimaProvider"
+    "internalName": "CimaNowProvider.cs3",
+    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/CimaNowProvider.cs3",
+    "name": "CimaNowProvider.cs3"
   }
  ]
