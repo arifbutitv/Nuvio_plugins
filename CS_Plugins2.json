@@ -114,5 +114,24 @@
     "internalName": "Arabseed",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Arabseed.cs3",
     "name": "Arabseed"
+  },
+  {
+    "iconUrl": "https://wecima.ac/static/img/favicon.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "fileSize": 20000,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Abodabodd"
+    ],
+    "tvTypes": [
+    "Movie",
+    "tvTypes"
+    ],
+    "version": 1,
+    "internalName": "build/MyCimaProvider",
+    "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/build/MyCimaProvider.cs3",
+    "name": "build/MyCimaProvider"
   }
  ]
