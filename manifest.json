@@ -4,7 +4,7 @@
   "scrapers": [
     {
       "id": "FaselHD",
-      "name": "FaselHD",
+      "name": "FaselHD (Nvmindl)",
       "description": "Arabic Hard Sub movies, TV shows, and anime — 1080p/720p/360p streams from FaselHD CDN",
       "version": "16.2.0",
       "author": "Nuvio Team",
@@ -70,7 +70,7 @@
     },
     {
       "id": "Cineby",
-      "name": "Cineby",
+      "name": "Cineby (Nvmindl)",
       "description": "Multi-server movie and TV streaming — 4K/1080p/720p from Videasy network with multilingual subtitles",
       "version": "1.8.0",
       "author": "Nuvio Team",
